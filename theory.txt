@@ -1,0 +1,9 @@
+<h1>-<h6>=heading tag
+<p>=pragraph tag
+<br>=break tag
+<strong>=like as b tag
+<b>=this is bold tag
+<img>=image tag
+<src>=source
+<span>=like as b tag
+<title>=this is title tag
